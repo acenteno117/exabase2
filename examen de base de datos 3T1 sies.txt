@@ -1,0 +1,29 @@
+ Examen de Base ded datos II
+
+
+1. Utilizar la base de datos Northwind y exportar los datos de la tabla "Suppliers" (proveedores)
+a una pagina web, agregue un bton con una consulta de Join unificando nombre y contacto del cliente 
+con un Nombre de producto de la tabla producto. 
+
+
+
+NOta: usar estructrura img, css, js, modelo, controlador
+
+
+2. Realizar un crud en PHP con la base de datos inventario exportando datos de la tabla Usuario y gregue funcionalidad en una columna Funcion, las funcionalidades debe ser buscar, eliminar datos de la tala.
+
+Nombre  Apellido Funcion 
+
+Nota: si no esta la tabla usuario agregarla y a gregar los estilos de bootstrap 5.  usar estructrura img, css, js, modelo, controlador
+
+
+
+
+
+
+3. clonar el proyecto del siguiente repositorio del proyecto Ecomerce y cargarlo con mongoDB compas
+
+https://github.com/acenteno117/dbMongo.git
+
+
+
